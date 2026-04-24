@@ -16,21 +16,29 @@ The system is optimized for German conversations, including formal communication
 
 
 ## 🧠 How It Works
-A new lead is received (via webhook or form)
-Backend system processes the request
-AI initiates a call to the customer
-Real-time conversation happens (STT → LLM → TTS)
-System performs actions (check slots, book appointment)
-CRM is updated instantly
+- A new lead is received (via webhook or form)
+- Backend system processes the request
+- AI initiates a call to the customer
+- Real-time conversation happens (STT → LLM → TTS)
+- System performs actions (check slots, book appointment)
+- CRM is updated instantly
 
 
 ## 🛠️ Tech Stack
-Backend: Python, FastAPI
-Voice AI Platform: Vapi
-LLM: GPT-4o
-Speech-to-Text: Optimized for German
-Text-to-Speech: Natural voice output
-Data Layer: Mock CRM
+
+<img width="1641" height="958" alt="AI_German_Receptionist" src="https://github.com/user-attachments/assets/fa77ef5a-35ed-4fbf-9a17-86258a960cbd" />
+
+- Backend: Python, FastAPI
+- Voice AI Platform: Vapi
+- LLM: GPT-4o
+- Speech-to-Text: Optimized for German
+- Text-to-Speech: Natural voice output
+- Data Layer: Mock CRM
 
 ## 🎥 Demo
 [Click here for demo](https://youtube.com/shorts/uxl4FK3CSlw?feature=share)
+
+## 💡 Why this matters
+It reduces manual work, responds to leads instantly, and ensures you never miss a booking.
+
+
