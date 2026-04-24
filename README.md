@@ -7,12 +7,12 @@ This project demonstrates how AI can be used to automate inbound/outbound calls,
 The system is optimized for German conversations, including formal communication (“Sie”), accurate handling of dates and numbers, and a professional tone.
 
 ## 🧠 Key Features
-📞 Automated outbound call handling
-🗣️ Natural voice conversations (German-optimized)
-📅 Real-time appointment booking
-🔄 CRM integration for live data updates
-⚙️ Backend-driven workflow orchestration
-🚀 Designed for production use cases
+- 📞 Automated outbound call handling
+- 🗣️ Natural voice conversations (German-optimized)
+- 📅 Real-time appointment booking
+- 🔄 CRM integration for live data updates
+- ⚙️ Backend-driven workflow orchestration
+- 🚀 Designed for production use cases
 
 
 ## 🧠 How It Works
@@ -28,6 +28,8 @@ The system is optimized for German conversations, including formal communication
 
 <img width="1641" height="958" alt="AI_German_Receptionist" src="https://github.com/user-attachments/assets/fa77ef5a-35ed-4fbf-9a17-86258a960cbd" />
 
+
+
 - Backend: Python, FastAPI
 - Voice AI Platform: Vapi
 - LLM: GPT-4o
@@ -37,6 +39,7 @@ The system is optimized for German conversations, including formal communication
 
 ## 🎥 Demo
 [Click here for demo](https://youtube.com/shorts/uxl4FK3CSlw?feature=share)
+
 
 ## 💡 Why this matters
 It reduces manual work, responds to leads instantly, and ensures you never miss a booking.
